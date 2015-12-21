@@ -1,3 +1,7 @@
+Forked from AmiliaApp.
+
+*CommonJS version*
+
 Backgrid Select Filter
 ======================
 Client side drop-down filter for Backgrid. Inspired from [backgrid-filter](https://github.com/wyuenho/backgrid-filter]). To be used with [Backgrid](https://github.com/wyuenho/backgrid) and [Backbone](http://github.com/jashkenas/backbone/) of course.<br/>
